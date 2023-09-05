@@ -84,8 +84,9 @@ const LandingPageTemplate = () => {
         <Section>
           <Container center className={styles.headerSection}>
             <H1>
-              <span className={styles.textGradient}>Your project is a go!</span>{" "}
-              🎉
+              <span className={styles.textGradient}>
+                Next.js project Amirul
+              </span>{" "}
             </H1>
             <Subtitle>
               Get started by editing <InlineCode>pages/index.tsx</InlineCode>
